@@ -14,8 +14,11 @@
 <div align="left">
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="node.js logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/express/808080" height="30" alt="express.js logo"  />
-  <img width="12" />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/express/FFFFFF" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/express/000000" />
+  <img src="https://cdn.simpleicons.org/express/000000" height="30" alt="express.js logo" />
+  </picture>
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="30" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/python/3776AB" height="30" alt="python logo"  />
@@ -38,7 +41,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="aws logo"  />
+  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" height="30" alt="aws logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
   <img width="12" />
