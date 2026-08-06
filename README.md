@@ -1,4 +1,4 @@
-<h2 align="left">👋 Hi, I'm Adeel Yousafzai – a Software Engineer specializing in API Integration, Javascript, Python, .NET Core, and Cloud Technologies🚀</h2>
+<h2 align="left"> Full Stack Engineer specializing in Node.js, Python (FastAPI, Django), C# .NET, and PostgreSQL/MongoDB, building scalable systems across SaaS, and enterprise domains 🚀</h2>
 
 ###
 
