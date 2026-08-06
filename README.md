@@ -14,7 +14,7 @@
 <div align="left">
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="node.js logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/express/000000" height="30" alt="express.js logo"  />
+  <img src="https://cdn.simpleicons.org/express/808080" height="30" alt="express.js logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="30" alt="react logo"  />
   <img width="12" />
